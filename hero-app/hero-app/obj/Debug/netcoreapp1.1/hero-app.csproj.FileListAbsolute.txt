@@ -1,0 +1,11 @@
+C:\Users\jlilly\Google Drive\Projects\GitHub\hero\hero-app\hero-app\bin\Debug\netcoreapp1.1\hero-app.deps.json
+C:\Users\jlilly\Google Drive\Projects\GitHub\hero\hero-app\hero-app\bin\Debug\netcoreapp1.1\hero-app.runtimeconfig.json
+C:\Users\jlilly\Google Drive\Projects\GitHub\hero\hero-app\hero-app\bin\Debug\netcoreapp1.1\hero-app.runtimeconfig.dev.json
+C:\Users\jlilly\Google Drive\Projects\GitHub\hero\hero-app\hero-app\bin\Debug\netcoreapp1.1\hero-app.dll
+C:\Users\jlilly\Google Drive\Projects\GitHub\hero\hero-app\hero-app\bin\Debug\netcoreapp1.1\hero-app.pdb
+C:\Users\jlilly\Google Drive\Projects\GitHub\hero\hero-app\hero-app\obj\Debug\netcoreapp1.1\hero-app.csprojResolveAssemblyReference.cache
+C:\Users\jlilly\Google Drive\Projects\GitHub\hero\hero-app\hero-app\obj\Debug\netcoreapp1.1\hero-app.csproj.CoreCompileInputs.cache
+C:\Users\jlilly\Google Drive\Projects\GitHub\hero\hero-app\hero-app\obj\Debug\netcoreapp1.1\hero-app.AssemblyInfoInputs.cache
+C:\Users\jlilly\Google Drive\Projects\GitHub\hero\hero-app\hero-app\obj\Debug\netcoreapp1.1\hero-app.AssemblyInfo.cs
+C:\Users\jlilly\Google Drive\Projects\GitHub\hero\hero-app\hero-app\obj\Debug\netcoreapp1.1\hero-app.dll
+C:\Users\jlilly\Google Drive\Projects\GitHub\hero\hero-app\hero-app\obj\Debug\netcoreapp1.1\hero-app.pdb

@@ -6,7 +6,8 @@ namespace hero_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string tagline = "Be a hero";
+            Console.WriteLine(tagline);
         }
     }
 }
